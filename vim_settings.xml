@@ -1,0 +1,174 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/Minerva/Core/Controllers/EmergencyRoomMC.ts" timestamp="1475878582582">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1476560487628">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1476562384519">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1476560461479">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Player/tsconfig.json" timestamp="1476720566508">
+        <mark key="[" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" timestamp="1476733297709">
+        <mark key="[" line="161" column="40" />
+        <mark key="]" line="161" column="69" />
+        <mark key="^" line="161" column="69" />
+        <mark key="." line="161" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Documents/Setting up a Dev Environment.txt" timestamp="1475870481525">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="2" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="27" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/node_modules/@types/three/index.d.ts" timestamp="1476729949994" />
+      <file name="$USER_HOME$/Projects/Minerva/Makefile" timestamp="1475878573846">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/Controllers/EmergencyRoomSC.ts" timestamp="1476733365803" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/Utils/GlobalFunctions.ts" timestamp="1476728545736" />
+      <file name="$USER_HOME$/Projects/Minerva/Build/Libraries/libraries.js" timestamp="1476730011154" />
+      <file name="/JavaScript Console" timestamp="1476733309066">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Libraries/orbit_controls.js" timestamp="1476704913173">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Player/Views/TabPanes/TabPaneVC.ts" timestamp="1476732201159">
+        <mark key="[" line="323" column="41" />
+        <mark key="]" line="323" column="41" />
+        <mark key="^" line="323" column="41" />
+        <mark key="." line="323" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/tsconfig.json" timestamp="1476707546143">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="109" column="56" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/SceneController.ts" />
+      <jump line="57" column="14" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/SceneController.ts" />
+      <jump line="111" column="55" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/SceneController.ts" />
+      <jump line="146" column="17" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/SceneController.ts" />
+      <jump line="23" column="24" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/SceneController.ts" />
+      <jump line="57" column="8" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="106" column="49" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="76" column="65" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="84" column="4" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="181" column="28" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="186" column="36" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+      <jump line="190" column="12" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ub(newCameraPosition);</text>
+      </register>
+      <register name="-" type="4">
+        <text>ub(newCameraPosition);</text>
+      </register>
+      <register name="/" type="4">
+        <text>this.target</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJbGV0IHdvcmxkTWF0cml4ID0gbmV3IFRIUkVFLk1hdHJpeDQoKTsKCQkJd29ybGRNYXRyaXgubWFrZVJvdGF0aW9uQXhpcyhDYW1lcmFDb250cm9sbGVyLnlBeGlzLCB0aGlzLnJvdGF0ZURlbHRhLnggKiAuMDAyKTsKCQkJd29ybGRNYXRyaXgubXVsdGlwbHkodGhpcy5jYW1lcmEubWF0cml4KTsKCQkJdGhpcy5jYW1lcmEubWF0cml4ID0gd29ybGRNYXRyaXg7CgkJCXRoaXMuY2FtZXJhLnJvdGF0aW9uLnNldEZyb21Sb3RhdGlvbk1hdHJpeCh0aGlzLmNhbWVyYS5tYXRyaXgpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCXRoaXMuY2FtZXJhLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXRoaXMuY2FtZXJhLm1hdHJpeCA9IHdvcmxkTWF0cml4Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCXdvcmxkTWF0cml4Lm11bHRpcGx5KHRoaXMuY2FtZXJhLm1hdHJpeCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCXdvcmxkTWF0cml4Lm1ha2VSb3RhdGlvbkF4aXMoQ2FtZXJhQ29udHJvbGxlci55QXhpcywgdGhpcy5yb3RhdGVEZWx0YS54ICogLjAwMik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWxldCB3b3JsZE1hdHJpeCA9IG5ldyBUSFJFRS5NYXRyaXg0KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWNhbWVyYS5yb3RhdGlvbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CXN0YXRpYyBjYW1lcmFNaW5YQW5nbGUgPSBkZWdyZWVzVG9SYWRpYW5zKDkwKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>this.target</last-search>
+      <last-offset />
+      <last-pattern>this.target</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>this.target</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
