@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Minerva/Core/Controllers/EmergencyRoomMC.ts" timestamp="1475878582582">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/fragment.js" timestamp="1478031276160">
+      <file name="/fragment.js" timestamp="1478034933430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1476562384519">
@@ -21,17 +15,18 @@
         <mark key="^" line="171" column="31" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/PatientModelDefinition.ts" timestamp="1478009162000">
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="48" />
-        <mark key="^" line="94" column="48" />
-        <mark key="." line="94" column="48" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/PatientModelDefinition.ts" timestamp="1478033049300">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/Services/ModelService.ts" timestamp="1478029245046">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="17" column="45" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/Services/ModelService.ts" timestamp="1478034743749">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/Minerva/Documents/Setting up a Dev Environment.txt" timestamp="1475870481525">
         <mark key="[" line="27" column="1" />
@@ -39,44 +34,25 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Designer/Dialogs/FileListDialogVC.ts" timestamp="1478009633885">
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ModelObject.ts" timestamp="1478036195542">
+        <mark key="[" line="58" column="88" />
+        <mark key="]" line="58" column="91" />
+        <mark key="^" line="58" column="91" />
+        <mark key="." line="58" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Designer/DesignerApp.ts" timestamp="1478031568613">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="21" column="43" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="43" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/FileMetadata.ts" timestamp="1478033005753">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ModelObject.ts" timestamp="1478031774029">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/Projects/Minerva/Player/Model/Patient.ts" timestamp="1478033201596">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="11" column="41" />
       </file>
-      <file name="/JavaScript Console" timestamp="1478031575570">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/Item.ts" timestamp="1478029714761">
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Designer/DetailVCs/CategoryDefinitionTableVC.ts" timestamp="1478030670325">
-        <mark key="[" line="145" column="45" />
-        <mark key="]" line="145" column="42" />
-        <mark key="." line="145" column="42" />
-        <mark key="^" line="145" column="42" />
-        <mark key="o" line="145" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Player/Model/Patient.ts" timestamp="1478009761565">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ModelObjectFactory.ts" timestamp="1478031796833">
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ModelObjectFactory.ts" timestamp="1478032538383">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="24" column="42" />
         <mark key="^" line="24" column="42" />
@@ -94,20 +70,90 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/File.ts" timestamp="1478032979439">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Minerva/Designer/DetailVCs/ActionDefinitionCollectionVC.ts" timestamp="1478029802669">
         <mark key="[" line="80" column="65" />
         <mark key="]" line="80" column="65" />
         <mark key="." line="80" column="65" />
         <mark key="^" line="80" column="65" />
       </file>
-      <file name="/a.regexp" timestamp="1478029692868">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/" timestamp="1476560461479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Minerva/Player/tsconfig.json" timestamp="1476720566508">
         <mark key="[" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Player/Model/Case.ts" timestamp="1478033190086">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Makefile" timestamp="1475878573846">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ActionDefinitionCollection.ts" timestamp="1478033540549">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="26" />
+        <mark key="^" line="55" column="26" />
+        <mark key="." line="55" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Player/Views/TabPanes/TabPaneVC.ts" timestamp="1476732201159">
+        <mark key="[" line="323" column="41" />
+        <mark key="]" line="323" column="41" />
+        <mark key="^" line="323" column="41" />
+        <mark key="." line="323" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Designer/DetailVCs/ActionDefinitionTableVC.ts" timestamp="1478034003173" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/PatientDefinition.ts" timestamp="1478033525093">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/Controllers/EmergencyRoomMC.ts" timestamp="1475878582582">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Designer/DesignerApp.ts" timestamp="1478032709536">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Player/Model/RuntimeObject.ts" timestamp="1478033179791">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1478036203550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/Item.ts" timestamp="1478032796454">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Designer/DetailVCs/PatientDetailVC.ts" timestamp="1478033753954">
+        <mark key="[" line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ActionDefinition.ts" timestamp="1478035087444">
+        <mark key="'" line="23" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1478029692868">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/CategoryDefinitionCollection.ts" timestamp="1478030712843">
         <mark key="[" line="102" column="45" />
@@ -121,55 +167,41 @@
         <mark key="^" line="161" column="69" />
         <mark key="." line="161" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Makefile" timestamp="1475878573846">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/Minerva/Designer/DetailVCs/PropertiesDetailVC.ts" timestamp="1478009550830">
         <mark key="[" line="183" column="28" />
         <mark key="]" line="183" column="31" />
         <mark key="." line="183" column="31" />
         <mark key="^" line="183" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Designer/Tree/FileTreeVC.ts" timestamp="1478009658871">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/ActionDefinitionCollection.ts" timestamp="1478029752439">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Player/Views/TabPanes/TabPaneVC.ts" timestamp="1476732201159">
-        <mark key="[" line="323" column="41" />
-        <mark key="]" line="323" column="41" />
-        <mark key="^" line="323" column="41" />
-        <mark key="." line="323" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Designer/ToolbarAndMenus/ToolbarVC.ts" timestamp="1478009651030">
-        <mark key="[" line="60" column="52" />
-        <mark key="]" line="60" column="52" />
-        <mark key="." line="60" column="52" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/DerivableCollection.ts" timestamp="1478009499701">
-        <mark key="[" line="63" column="54" />
-        <mark key="]" line="63" column="54" />
-        <mark key="^" line="63" column="54" />
-        <mark key="." line="63" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/tsconfig.json" timestamp="1476707546143">
+      <file name="$USER_HOME$/Projects/Minerva/Player/Model/Property.ts" timestamp="1478033217329">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+        <mark key="^" line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/PatientDefinition.ts" timestamp="1478030401166">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="35" column="29" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/CaseDefinition.ts" timestamp="1478032865428">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/PatientModelPose.ts" timestamp="1478033083029">
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/DerivableCollection.ts" timestamp="1478032808729">
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="66" column="54" />
+        <mark key="^" line="66" column="54" />
+        <mark key="." line="66" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/Minerva/Core/DataModel/SceneDefinition.ts" timestamp="1478033109230">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -188,67 +220,48 @@
       <jump line="190" column="12" filename="$USER_HOME$/Projects/Minerva/Core/BaseObjects/CameraController.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/Minerva/Core/DataModel/Collection.ts" />
       <jump line="13" column="25" filename="$USER_HOME$/Projects/Minerva/Designer/DesignerApp.ts" />
+      <jump line="40" column="45" filename="$USER_HOME$/Projects/Minerva/Core/Services/ModelService.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/Minerva/Core/DataModel/ActionDefinition.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>globalFactory</text>
+        <text>owner</text>
       </register>
       <register name="-" type="4">
-        <text>globalFactory</text>
+        <text>owner</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIE1vZGVsT2JqZWN0RmFjdG9yeSB7CgoJc3RhdGljIGNyZWF0ZU1vZGVsT2JqZWN0RnJvbUpzb24oanNvbjogYW55LCBvd25lcjogT3B0aW9uYWw8TW9kZWxPYmplY3Q+KTogT3B0aW9uYWw8TW9kZWxPYmplY3Q+IHsKCQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWdldCBtb2RlbFNlcnZpY2UoKTogTW9kZWxTZXJ2aWNlSW50ZiB7CgkJcmV0dXJuIE1vZGVsU2VydmljZS5pbnN0YW5jZQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXByb3BlcnR5TmFtZSA9IHRoaXMudXBncmFkZVByb3BlcnR5TmFtZU1hcHBpbmcocHJvcGVydHlOYW1lLCBqc29uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXByb3BlcnR5TmFtZSA9IHRoaXMudXBncmFkZVByb3BlcnR5TmFtZU1hcHBpbmcocHJvcGVydHlOYW1lLCBqc29uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGdsb2JhbEZhY3RvcnkgPSBuZXcgTW9kZWxPYmplY3RGYWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFjdGlvbi51dWlkICE9IGFjdGlvblRvUmVtb3ZlLnV1aWQ7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>GlobalModelFactory} from &quot;../Core/DataModel/ModelObjectFactory&quot;;
-
-
-export class DesignerApp extends Application {
-
-	viewController: DesignerVC;
-	loadedFiles: File[] = [];
-
-	modelFactory: GlobalModelFactory = new GlobalModelFactory();
-
-	static app: DesignerApp = null;
-	static EventLoadedFilesChanged = &quot;LoadedFilesChanged&quot;;
-	static EventCurrentFileChanged = &quot;CurrentFileChanged&quot;;
-
-	static get instance() : DesignerApp {
-		if (DesignerApp.app == null) {
-			DesignerApp.app = new DesignerApp().init();
-		}
-
-		return DesignerApp.app;
-		
-	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl0aGlzLmFjdGlvbnMgPSB0aGlzLmFjdGlvbnMuZmlsdGVyKGZ1bmN0aW9uIChhY3Rpb246IEFjdGlvbkRlZmluaXRpb24pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLmNhbGxFdmVudChQcm9wZXJ0eURlZmluaXRpb25Db2xsZWN0aW9uLkV2ZW50UHJvcGVydGllc0NoYW5nZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLmNhbGxFdmVudChQcm9wZXJ0eURlZmluaXRpb25Db2xsZWN0aW9uLkV2ZW50UHJvcGVydGllc0NoYW5nZWQpOwo=</text>
+        <text encoding="base64">CWNyZWF0ZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0YXRpYyBFdmVudFByb3BlcnRpZXNDaGFuZ2VkID0gIlByb3BlcnRpZXNDaGFuZ2VkIjsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
