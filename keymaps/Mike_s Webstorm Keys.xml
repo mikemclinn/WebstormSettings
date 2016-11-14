@@ -5,7 +5,13 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -22,6 +28,7 @@
     <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorEnter" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -72,6 +79,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
@@ -103,6 +111,8 @@
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -122,4 +132,5 @@
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="XDebugger.CopyWatch" />
 </keymap>
