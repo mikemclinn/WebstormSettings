@@ -3,10 +3,9 @@
     <property name="created">2016-10-31T10:53:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-10-31T10:54:32</property>
+    <property name="modified">2016-12-05T16:46:14</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
@@ -63,7 +62,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fffcef" />
+        <option name="BACKGROUND" value="fff8eb" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
