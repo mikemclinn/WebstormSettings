@@ -3,7 +3,7 @@
     <property name="created">2016-10-31T10:53:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-12-05T16:46:14</property>
+    <property name="modified">2016-12-07T15:26:30</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -42,6 +42,12 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
     <option name="JS.CLASS">
       <value>
         <option name="FOREGROUND" value="4e99" />
@@ -62,7 +68,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fff8eb" />
+        <option name="BACKGROUND" value="fffcef" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
