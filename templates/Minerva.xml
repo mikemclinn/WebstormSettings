@@ -1,0 +1,9 @@
+<templateSet group="Minerva">
+  <template name="ss" value="static $NAME$ = StyleService.addStaticRule({&#10;&#9;$PROP$&#10;} as React.CSSProperties);" description="StyleService static style" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="name" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="prop" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
