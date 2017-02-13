@@ -5,6 +5,9 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -118,6 +121,9 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
