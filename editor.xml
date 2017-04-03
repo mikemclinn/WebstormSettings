@@ -1,9 +1,9 @@
 <application>
   <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="automaticallyStartAttribute" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
