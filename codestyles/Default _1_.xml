@@ -11,6 +11,10 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -28,6 +32,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="2" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />

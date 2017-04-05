@@ -6,4 +6,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="reactview" value="import * as React from 'react';&#10;import {ReactView} from 'Core/Views/ReactView';&#10;import {StyleService} from 'Core/Services/StyleService';&#10;&#10;export interface $NAME$Props {&#10;}&#10;&#10;class Stylesheet {&#10;&#9;outerDiv = StyleService.addRule({&#10;&#10;&#9;});&#10;}&#10;&#10;let stylesheet = StyleService.addComponentStylesheet(&quot;$NAME$&quot;, new Stylesheet());&#10;&#10;export class $NAME$ extends ReactView&lt;$NAME$Props, {}&gt; {&#10;&#10;&#9;render() : JSX.Element {&#10;&#9;&#9;return (&#10;&#9;&#9;&#9;&lt;div name=&quot;$NAME$&quot; className={stylesheet.outerDiv}&gt;&#10;&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;);&#10;&#9;}&#10;}&#10;" description="Subclass of ReactView with stylesheet &amp; props." toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="CLASS_NAME" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
