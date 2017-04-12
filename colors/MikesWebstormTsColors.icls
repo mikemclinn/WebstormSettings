@@ -4,13 +4,13 @@
     <property name="created">2016-10-31T10:53:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-04-05T13:20:40</property>
+    <property name="modified">2017-04-12T15:44:56</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="fffcef" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fff8e7" />
   </colors>
   <attributes>
     <option name="DEFAULT_CLASS_NAME">
@@ -72,7 +72,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fffcef" />
+        <option name="BACKGROUND" value="fff8e7" />
       </value>
     </option>
     <option name="TS.INSTANCE_MEMBER_VARIABLE">
