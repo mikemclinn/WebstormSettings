@@ -2,4 +2,7 @@
   <component name="EditorSettings">
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
 </application>
