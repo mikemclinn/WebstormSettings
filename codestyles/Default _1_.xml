@@ -38,6 +38,7 @@
     <option name="CALL_PARAMETERS_WRAP" value="2" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
