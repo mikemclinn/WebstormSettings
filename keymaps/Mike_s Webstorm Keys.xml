@@ -159,6 +159,9 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
