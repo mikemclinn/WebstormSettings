@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
+    <option name="IS_DND_ENABLED" value="false" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="XmlEditorOptions">
