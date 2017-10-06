@@ -28,6 +28,10 @@
   </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItem" />
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDelete">
@@ -46,7 +50,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorEnter" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -87,6 +90,7 @@
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -107,11 +111,12 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="EditorPreviousWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -169,9 +174,6 @@
   <action id="NewScratchFile" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="OverrideMethods" />
   <action id="PlaybackLastMacro">
