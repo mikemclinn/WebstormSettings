@@ -159,6 +159,9 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
