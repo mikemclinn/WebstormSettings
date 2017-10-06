@@ -1,4 +1,12 @@
 <keymap version="1" name="Mike's Webstorm Keys" parent="Mac OS X">
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateTypeScriptToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -20,10 +28,6 @@
   </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItem" />
-  <action id="EditorChooseLookupItemCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift meta enter" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDelete">
@@ -42,6 +46,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorEnter" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -77,6 +82,7 @@
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -101,6 +107,7 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorPreviousWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -115,6 +122,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -126,7 +134,11 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -168,13 +180,16 @@
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+  <action id="Replace" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
