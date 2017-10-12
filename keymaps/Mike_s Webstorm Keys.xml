@@ -15,6 +15,7 @@
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
@@ -32,7 +33,9 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -147,6 +150,7 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
