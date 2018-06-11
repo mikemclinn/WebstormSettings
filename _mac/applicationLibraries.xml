@@ -208,6 +208,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/attr_encrypted-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="attr_encrypted (v3.1.0, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/attr_encrypted-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/attr_encrypted-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="audited (v4.7.0, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/audited-4.7.0/lib" />
@@ -320,6 +328,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt-ruby (v3.1.5, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/bcrypt-ruby-3.1.5/lib" />
@@ -352,6 +370,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/benchmark-ips-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="better_errors (v2.4.0, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/better_errors-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/better_errors-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES />
       <SOURCES />
@@ -363,6 +389,16 @@
     <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="binding_of_caller (v0.8.0, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/binding_of_caller-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/binding_of_caller-0.8.0/lib" />
+      </SOURCES>
     </library>
     <library name="bootsnap (v1.1.7, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
@@ -442,6 +478,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/builder-3.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bullet (v5.7.5, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bullet-5.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bullet-5.7.5/lib" />
       </SOURCES>
     </library>
     <library name="bundler (v1.16.1, RVM: ruby-2.3.7) [gem]">
@@ -924,6 +968,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
+    <library name="debug_inspector (v0.0.3, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debug_inspector-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debug_inspector-0.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="dentaku (v2.0.5, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/dentaku-2.0.5/lib" />
@@ -972,6 +1026,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/devise-3.5.5/lib" />
       </SOURCES>
     </library>
+    <library name="devise (v4.4.3, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/devise-4.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/devise-4.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="devise-two-factor (v2.2.1, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/devise-two-factor-2.2.1/lib" />
@@ -986,6 +1048,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/devise-two-factor-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="devise-two-factor (v3.0.2, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/devise-two-factor-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/devise-two-factor-3.0.2/lib" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.7 [global]) [gem]">
@@ -1314,6 +1384,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/encryptor-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubi (v1.7.1, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/erubi-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/erubi-1.7.1/lib" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.3.7 [global]) [gem]">
@@ -1978,6 +2056,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/i18n-0.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/i18n-0.9.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/i18n-0.9.5/lib" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.7 [global]) [gem]">
@@ -2702,6 +2788,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/minitest-5.11.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.5, RVM: ruby-2.3.7 [global]) [gem]">
@@ -3516,6 +3610,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.1, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rake-12.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rake-12.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rake-compiler (v0.9.5, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/rake-compiler-0.9.5/lib" />
@@ -3654,6 +3756,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/responders-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.4.0, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/responders-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/responders-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="resque (v1.27.4, RVM: ruby-2.3.7 [global]) [gem]">
@@ -4552,6 +4662,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/stackdriver-core-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="stackprof (v0.2.11, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/stackprof/0.2.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/stackprof-0.2.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/stackprof/0.2.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/stackprof-0.2.11/lib" />
+      </SOURCES>
+    </library>
     <library name="stringex (v1.5.1, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/stringex-1.5.1/lib" />
@@ -4804,6 +4924,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/tzinfo-1.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo-data (v1.2015.5, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/tzinfo-data-1.2015.5/lib" />
@@ -4900,6 +5028,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/unicorn-4.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="uniform_notifier (v1.11.0, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/uniform_notifier-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/uniform_notifier-1.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="uuidtools (v2.1.5, RVM: ruby-2.3.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/uuidtools-2.1.5/lib" />
@@ -4946,6 +5082,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@global/gems/warden-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.7, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/warden-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/warden-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="webmock (v1.21.0, RVM: ruby-2.3.7 [global]) [gem]">
