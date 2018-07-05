@@ -1,0 +1,6 @@
+<keymap version="1" name="Mikes Webstorm keys" parent="Mac OS X">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OverrideMethods" />
+</keymap>

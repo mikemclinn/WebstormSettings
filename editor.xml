@@ -1,13 +1,6 @@
 <application>
-  <component name="EditorSettings">
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="RENAME_VARIABLES_INPLACE" value="false" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
