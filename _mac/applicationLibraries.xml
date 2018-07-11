@@ -172,11 +172,9 @@
     </library>
     <library name="bcrypt (v3.1.10, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
@@ -300,11 +298,9 @@
     </library>
     <library name="byebug (v4.0.5, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/4.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/byebug-4.0.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/4.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/byebug-4.0.5/lib" />
       </SOURCES>
     </library>
@@ -708,11 +704,9 @@
     </library>
     <library name="do_sqlite3 (v0.10.17, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/do_sqlite3/0.10.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/do_sqlite3-0.10.17/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/do_sqlite3/0.10.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/do_sqlite3-0.10.17/lib" />
       </SOURCES>
     </library>
@@ -854,11 +848,9 @@
     </library>
     <library name="fast_stack (v0.1.0, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast_stack/0.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/fast_stack-0.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast_stack/0.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/fast_stack-0.1.0/lib" />
       </SOURCES>
     </library>
@@ -1308,11 +1300,9 @@
     </library>
     <library name="json_pure (v1.8.3, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/json_pure-1.8.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/json_pure-1.8.3/lib" />
       </SOURCES>
     </library>
@@ -1344,11 +1334,9 @@
     </library>
     <library name="kgio (v2.9.3, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/kgio-2.9.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/kgio-2.9.3/lib" />
       </SOURCES>
     </library>
@@ -1592,11 +1580,9 @@
     </library>
     <library name="mysql2 (v0.3.18, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/mysql2-0.3.18/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/mysql2-0.3.18/lib" />
       </SOURCES>
     </library>
@@ -1676,12 +1662,10 @@
     </library>
     <library name="oj (v2.12.9, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.12.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/oj-2.12.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/oj-2.12.9/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.12.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/oj-2.12.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/oj-2.12.9/ext" />
       </SOURCES>
@@ -1920,11 +1904,9 @@
     </library>
     <library name="raindrops (v0.14.0, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.14.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/raindrops-0.14.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.14.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/raindrops-0.14.0/lib" />
       </SOURCES>
     </library>
@@ -2486,11 +2468,9 @@
     </library>
     <library name="sqlite3 (v1.3.11, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/sqlite3-1.3.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/sqlite3-1.3.11/lib" />
       </SOURCES>
     </library>
@@ -2562,12 +2542,10 @@
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/therubyracer-0.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/therubyracer-0.12.2/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/therubyracer-0.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/therubyracer-0.12.2/ext" />
       </SOURCES>
@@ -2698,11 +2676,9 @@
     </library>
     <library name="unicorn (v4.9.0, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/4.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/unicorn-4.9.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/4.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/unicorn-4.9.0/lib" />
       </SOURCES>
     </library>
