@@ -516,11 +516,9 @@
     </library>
     <library name="debase (v0.2.2, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-0.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-0.2.2/lib" />
       </SOURCES>
     </library>
@@ -1656,11 +1654,9 @@
     </library>
     <library name="nokogiri (v1.8.4, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogiri-1.8.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogiri-1.8.4/lib" />
       </SOURCES>
     </library>
