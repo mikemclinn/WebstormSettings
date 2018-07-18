@@ -530,6 +530,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debase-ruby_core_source-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/debug_inspector-0.0.3/lib" />
@@ -1644,6 +1652,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.4, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogiri-1.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogiri-1.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="nokogumbo (v1.5.0, RVM: ruby-2.3.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/nokogumbo-1.5.0/lib" />
@@ -1824,6 +1840,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rack-cors-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-cors (v1.0.2, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rack-cors-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rack-cors-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-mini-profiler (v0.10.1, RVM: ruby-2.3.7) [gem]">
@@ -2220,6 +2244,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/rubocop-checkstyle_formatter-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7/gems/ruby-debug-ide-0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta4, RVM: ruby-2.3.7) [gem]">
